@@ -1,0 +1,14 @@
+syntax on
+
+inoremap jj <Esc>
+
+inoremap <F3> <c-o>:w<cr>
+nnoremap <F3> :w<cr>
+call plug#begin()
+
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+
+call plug#end()
+
+let g:airline_theme='distinguished'

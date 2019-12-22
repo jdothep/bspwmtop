@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/usr/share/doc/bspwm/examples/receptacles'
+let g:netrw_dirhist_9='/usr/share/doc/bspwm/examples'
+let g:netrw_dirhist_8='/usr/share/doc/bspwm/examples/panel'
+let g:netrw_dirhist_7='/usr/share/doc/bspwm/examples'
+let g:netrw_dirhist_6='/usr/share/doc/bspwm'
+let g:netrw_dirhist_5='/usr/share/doc/bspwm/examples/external_rules'
+let g:netrw_dirhist_4='/usr/share/doc/bspwm/examples'
+let g:netrw_dirhist_3='/usr/share/doc/bspwm'
+let g:netrw_dirhist_2='/usr/share/rofi/themes'
+let g:netrw_dirhist_1='/home/u/.config/sxhkd'
