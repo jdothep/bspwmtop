@@ -1,0 +1,9 @@
+syntax on
+
+inoremap jj <Esc>
+
+inoremap <F3> <c-o>:w<cr>
+nnoremap <F3> :w<cr>
+
+
+
